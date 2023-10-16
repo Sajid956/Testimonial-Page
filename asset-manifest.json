@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Testimonial-Page/static/css/main.5b7f536e.css",
+    "main.js": "/Testimonial-Page/static/js/main.b6f8376e.js",
+    "static/js/787.2003ed89.chunk.js": "/Testimonial-Page/static/js/787.2003ed89.chunk.js",
+    "index.html": "/Testimonial-Page/index.html",
+    "main.5b7f536e.css.map": "/Testimonial-Page/static/css/main.5b7f536e.css.map",
+    "main.b6f8376e.js.map": "/Testimonial-Page/static/js/main.b6f8376e.js.map",
+    "787.2003ed89.chunk.js.map": "/Testimonial-Page/static/js/787.2003ed89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7f536e.css",
+    "static/js/main.b6f8376e.js"
+  ]
+}
